@@ -66,8 +66,8 @@ params:
               url: data/
             - name: Reads
               url: books/
-            - name: Tags
-              url: tags/
+          #  - name: Tags
+           #   url: tags/
           #  - name: Archive
            #   url: archive/
           #  - name: Blog

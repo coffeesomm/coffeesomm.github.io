@@ -53,7 +53,7 @@ params:
     profileMode:
           enabled: true
           title: Yash Chhabra
-          subtitle: "I'm an MSc student in **Sustainable and Green Finance** at **NUS Business School.** I am also a Graduate Student Researcher at the **Sustainable and Green Finance Institute (SGFIN)**, where I contribute to developing sustainability frameworks. My mom, a former teacher, has an extraordinary talent for breaking down complex ideas into simple, digestible terms, which makes her the best teacher I’ve ever had. This skill of **simplifying complexity** is the same approach I aspire to bring to the world of Sustainability to solve complex problems."
+          subtitle: "I'm an MSc student in **Sustainable and Green Finance** at **NUS Business School.** I am also a Graduate Student Researcher at the **Sustainable and Green Finance Institute (SGFIN)**, where I contribute to developing sustainability frameworks. <br><br> My mom, a former teacher, has an extraordinary talent for breaking down complex ideas into simple, digestible terms, which makes her the best teacher I’ve ever had. This skill of **simplifying complexity** is the same approach I aspire to bring to the world of Sustainability to solve complex problems."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -77,7 +77,7 @@ params:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:yash.c@u.nus.edu
         - name: LinkedIn
           url: linkedin.com/in/yashc19
        # - name: Location
@@ -101,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Yash Chhabra"
       icon: favicon.ico
       iconHeight: 18
 

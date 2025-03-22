@@ -1,133 +1,93 @@
 ---
-title: "List of Irregular Verbs Across Romance Languages" 
-date: 2013-03-07
-lastmod: 2024-07-12
-tags: ["Romance languages","philology","irregular verbs","Portuguese","Italian","French","Spanish","simulations","dataset","python"]
-author: ["Patrick Fitzcarron O'Leary","Florianus Prinzel","Walter Schoeffler-Henschell","Detlev Amadeus Unterholzer", "Dieter Vogelsang","Moritz-Maria von Igelfeld"]
-description: "This dataset contains all irregular verbs in known Romance languages."
-summary: "This dataset contains all irregular verbs in known Romance languages."
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "GitHub repository"
+title: "Coffee in Singapore" 
+date:
+lastmod:
+tags: ["coffee","singapore"]
+author: "Yash Chhabra"
+description: "These are all the coffee shops I have been to in Singapore."
+summary:
 showToc: true
 disableAnchoredHeadings: false
 
 ---
 
-## Overview
+## Bean there, sipped there
 
-This dataset contains all irregular verbs in [all known Romance languages](http://www.alexandermccallsmith.com/series/von-igelfeld-series)—including Portugese, Spanish, French, and Italian. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I have been to the following spots since I came to SG in August 2024:
 
----
+1. [Cafe Ren](https://www.instagram.com/caferen.sg/): hot mocha. //
+The first place I went to after landing in SG. The hot chocolatey mocha paired with their warm and flakey croissant made me forget about my tiring red-eye flight. I'll definitely go back!
+2. [Puzzle Coffee](https://www.instagram.com/thepuzzlecoffee/): iced mocha. //
+A memorable spot where I connected with a few of my fellow NUS cohort members. We tried a variety of drinks, and the consensus was that their tea outshines their coffee. We spent hours sharing stories, experiences, and backgrounds—laying the foundation for meaningful friendships.
+3. [Tomoro Coffee](https://www.instagram.com/tomorocoffee.sg/): iced oat milk latte. //
+Started by a fellow NUS BIZ alumni, the Tomoro @ NUS location serves fantastic coffee and pastries to college students. The oat milk latte is perfect for sipping while spending countless hours in the HSS library.
+4. [Acoustics Coffee Bar](https://www.instagram.com/acousticscoffeebar/): acoustics cloud & dark cloud. //
+This is hands-down my favorite place to study and relax. The Acoustics Cloud is a signature drink with a delightful cloud foam on top! It's creamy and perfectly sweet for me. I also tried the Dark Cloud, but imo, the Acoustics Cloud is definitely better.
+5. [Kurasu Singapore](https://www.instagram.com/kurasusg/): iced hojicha latte. //
+I walked in expecting to grab my usual mocha, only to find out they don’t carry it. So, I took a chance on their Hojicha Latte — and it exceeded all my expectations! It’s definitely a must-try. Plus, the baristas are super friendly and knowledgeable, making the experience even better.
+6. [Alchemist](https://www.instagram.com/alchemist.sg/): iced mocha. //
 
-## View dataset
+7. [Apartment](https://www.instagram.com/apartmentcoffee/): 
 
-+ Irregular verbs in Portugese: [data](https://github.com/pmichaillat/feru)
-+ Irregular verbs in Italian: [data](https://github.com/pmichaillat/unemployment-gap)
-+ Irregular verbs in French: [data](https://github.com/pmichaillat/job-rationing)
-+ Irregular verbs in Spanish: [data](https://github.com/pmichaillat/countercyclical-multiplier)
+8. [Rough Guys Coffee](https://www.instagram.com/roughguyscoffee/): iced mocha //
 
----
+9. [Snap Cafe](https://www.instagram.com/snapcafe.sg/): 
 
-## Source of data
+10. [ASK Coffee Roastery](https://www.instagram.com/askcoffeeroastery/):
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+11. [Lola's Cafe](https://www.instagram.com/lolascafesg/): hot mocha //
 
+12. [butter tgt](https://www.instagram.com/butter_tgt/):
 
----
+13. [MAXI COFFEE BAR](https://www.instagram.com/maxi.coffeebar/): 
 
-## Using data with Python
+14. [Asylum Coffee](https://www.instagram.com/asylumcoffeesg): 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+15. [sourdough & brew](https://www.instagram.com/bakingwithgina): dirty latte. //
 
-### Start Python:
+16. [hey slow joe](https://www.instagram.com/heyslowjoe): 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua.
+17. [NYLON COFFEE](https://www.instagram.com/nyloncoffee): iced white. //
 
-```python
-import numpy as np
-import pandas as pd
-```
+18. [Old Hen Coffee Bar](https://www.instagram.com/oldhencoffee): hot mocha. //
 
-### Open the file:
+19. [Huggs Coffee](https://www.instagram.com/huggs.sg): hot mocha. //  
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat `data.csv`.
+20. [CCSH Coffee Bar](https://www.instagram.com/cshhcoffee): iced mocha w oat milk. //
 
-```python
-file_path = 'data.csv'
-with open(file_path, 'r') as file:
-```
+21. [Pocket by Flip Coffee Roasters](https://www.instagram.com/flipcoffeeroasters): filthy.//
 
-### Read data:
+22. [Calligraph Coffee](https://www.instagram.com/calligraphcoffee): hot mocha.//
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur.
+23. [Dawn](https://www.instagram.com/dawnkissa): hot white. //
 
-```python
-    lines = file.readlines()
-```
+24. [Coffeehouse by Kobashi](https://www.instagram.com/kobashi_sg): iced mocha. //
 
-### Parse and process data:
+25. [Fame Coffee](https://www.instagram.com/famecoffeesg): hot mocha. //
 
-Duis aute `line_data` irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur `data.extend`.
+26. [Fluid](https://www.instagram.com/fluidcollective.co): hot chocolate. //
 
-```python
-data = []
-for line in lines:
-    line_data = line.strip().split(',')  # Split the line into a list of values
-    line_data = [float(value) for value in line_data]  # Convert values to floats
-    data.extend(line_data)  # Extend the main list with values from the line
-```
+27. [Equate](https://www.instagram.com/equatecoffee): iced mocha. //
 
-#### Compute summary statistics using NumPy:
+28. [The Glasshouse](https://www.instagram.com/theglasshousesg): iced mocha. //
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum: `data_array`. 
+29. [Spring Coffee](https://www.instagram.com/springcoffee.sg): iced mocha. //
 
-```python
-data_array = np.array(data)  # Convert the list to a NumPy array
-mean = np.mean(data_array)
-median = np.median(data_array)
-std_dev = np.std(data_array)
-min_value = np.min(data_array)
-max_value = np.max(data_array)
-```
+30. [Coexist Coffee Co.](https://www.instagram.com/coexistcoffee.co): hot mocha. //
 
-#### Display summary statistics:
+31. [The Clueless Goat](https://www.instagram.com/thecluelessgoat): dirty orange (espresso + soda + fresh orange juice). //
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat `print`.
+32. [174BINGO](https://www.instagram.com/174bingo): iced mocha. //
 
-```python
-print(f"Mean: {mean}")
-print(f"Median: {median}")
-print(f"Standard Deviation: {std_dev}")
-print(f"Minimum Value: {min_value}")
-print(f"Maximum Value: {max_value}")
-```
+33. [Balance Coffee](https://www.instagram.com/balancecoffee.sg): iced mocha. //
+
+34. [Kyuukei Coffee](https://www.instagram.com/kyuukeicoffee): hot mocha.//
+
+35. [Abseil](https://www.instagram.com/abseil.coffee): tonic.//
+
+36. [Double Shot Coffee](https://www.instagram.com/dblshotcoffee): iced mocha.//
+
+37. [SYIP - Farrek Park](https://www.instagram.com/syip.sg): hojicha sea salt maple foam.//
+
 
 ---
-
-## Description of simulation parameters
-
-| Parameter |   Value   |  Language  | Time period |           Description            |
-| :-------: | :-------: | ---------- | :---------: | :------------------------------: |
-|  $\alpha$ |   $1/2$   | French     |  1930–1954  |         Tempor dolor in          |
-| $\lambda$ |   $e/2$   | French     |  1930–1954  |       Fugiat sint occaecat       |
-|  $\gamma$ |  $\ln(3)$ | Spanish    |  1833–1954  |      Duis officia deserunt       |
-|  $\omega$ | $10^{-4}$ | Italian    |  1930–1994  | Excepteur et dolore magna aliqua |
-|  $\sigma$ |   $1.5$   | Portuguese |  1990–2023  |         Lorem culpa qui          |
-|  $\chi^2$ |  $\pi^2$  | Portuguese |  1990–2023  |         Labore et dolore         |

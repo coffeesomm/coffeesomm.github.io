@@ -58,7 +58,7 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: CoursesP
+            - name: Courses
               url: courses/
             - name: Projects/Competitions
               url: papers/

@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "www.coffeesomm.github.io"
 title: Moritz-Maria von Igelfeld
 theme: PaperMod
 
@@ -10,16 +10,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
+        - name: Reads
           url: books/
           weight: 5 
-        - name: Papers
+        - name: Projects
           url: papers/
           weight: 2
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
+        - name: Coffee
           url: data/
           weight: 4 
         - name: Blog

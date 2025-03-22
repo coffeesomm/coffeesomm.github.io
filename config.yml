@@ -12,22 +12,24 @@ menu:
     main:
         - name: Reads
           url: books/
-          weight: 5 
-        - name: Projects
+          weight: 3 
+        - name: Projects/Competitions
           url: papers/
-          weight: 2
+          weight: 4
         - name: Courses
           url: courses/
-          weight: 3
+          weight: 2
         - name: Coffee
           url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          weight: 5 
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/yashc19/
           weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
+    description: MSc Student in Sustainable and Green Finance at NUS Business School | Singapore
+    I love breaking down complex problems into simpler components, making it easier to understand and solve them efficiently
+    
     author: Yash Chhabra
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -53,12 +55,18 @@ params:
     profileMode:
           enabled: true
           title: Yash Chhabra
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          subtitle: "I'm an MSc student in **Sustainable and Green Finance** at **NUS Business School.** I am also a Graduate Student Researcher at the **Sustainable and Green Finance Institute (SGFIN)**, where I contribute to developing sustainability frameworks."
+
+          <br><br>
+          My mom, a former teacher, has an extraordinary talent for breaking down complex ideas into simple, digestible terms, which makes her the best teacher I’ve ever had. This skill of **simplifying complexity** is the same approach I aspire to bring to the world of Sustainability to solve complex problems.        
+          <br><br>
+          Actively seeking opportunities, with a focus on applying expertise in Sustainability and Finance to solve complex, real-world challenges.
+
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Projects
+            - name: Projects/Competitions
               url: papers/
             - name: Courses
               url: courses/
@@ -68,10 +76,10 @@ params:
               url: books/
             - name: Tags
               url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          #  - name: Archive
+           #   url: archive/
+          #  - name: Blog
+           #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV

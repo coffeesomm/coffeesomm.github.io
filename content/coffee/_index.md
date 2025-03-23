@@ -12,8 +12,9 @@ disableAnchoredHeadings: false
 ---
 
 ## Bean there, sipped there
+<br><br> If you're wondering why the name *coffeesomm*? As my friends like to call me, I’m a *coffee sommelier*. I have a deep love and obsession for coffee. I find it fascinating how coffee brings together people, culture, and conversations.
 
-I have been to the following spots since I came to SG in August 2024:
+<br><br>I have been to the following spots since I came to SG in August 2024:
 
 1. [Cafe Ren](https://www.instagram.com/caferen.sg/): hot mocha. //
 The first place I went to after landing in SG. The hot chocolatey mocha paired with their warm and flakey croissant made me forget about my tiring red-eye flight. I'll definitely go back!

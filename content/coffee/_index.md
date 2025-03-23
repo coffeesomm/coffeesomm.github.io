@@ -55,9 +55,9 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 20. [CCSH Coffee Bar](https://www.instagram.com/cshhcoffee): iced mocha w oat milk. //
 
-21. [Pocket by Flip Coffee Roasters](https://www.instagram.com/flipcoffeeroasters): filthy.//
+21. [Pocket by Flip Coffee Roasters](https://www.instagram.com/flipcoffeeroasters): filthy. //
 
-22. [Calligraph Coffee](https://www.instagram.com/calligraphcoffee): hot mocha.//
+22. [Calligraph Coffee](https://www.instagram.com/calligraphcoffee): hot mocha. //
 
 23. [Dawn](https://www.instagram.com/dawnkissa): hot white. //
 
@@ -81,13 +81,13 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 33. [Balance Coffee](https://www.instagram.com/balancecoffee.sg): iced mocha. //
 
-34. [Kyuukei Coffee](https://www.instagram.com/kyuukeicoffee): hot mocha.//
+34. [Kyuukei Coffee](https://www.instagram.com/kyuukeicoffee): hot mocha. //
 
-35. [Abseil](https://www.instagram.com/abseil.coffee): tonic.//
+35. [Abseil](https://www.instagram.com/abseil.coffee): tonic. //
 
-36. [Double Shot Coffee](https://www.instagram.com/dblshotcoffee): iced mocha.//
+36. [Double Shot Coffee](https://www.instagram.com/dblshotcoffee): iced mocha. //
 
-37. [SYIP - Farrek Park](https://www.instagram.com/syip.sg): hojicha sea salt maple foam.//
+37. [SYIP - Farrek Park](https://www.instagram.com/syip.sg): hojicha sea salt maple foam. //
 
 
 ---

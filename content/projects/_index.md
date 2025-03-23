@@ -29,7 +29,7 @@ I had the opportunity to participate in the Visa Financial Inclusion Designathon
 
 Working alongside a few friends in a diverse team of innovators and problem-solvers, we focused on creating solutions to enhance financial inclusion across the elderly aged 60 and above. This immersive experience allowed us to explore the intersection of design, technology, and finance while tackling one of Singapore's most pressing socio-economic challenges.
 
-Here is our [white-paper](/coffeesomm.github.io/VisaPaper.pdf) and the [presentation](/resume/VD.pdf).
+Here is our [white-paper](/static/VisaPaper.pdf) and the [presentation](/resume/VD.pdf).
 
 #### 3. Kellogg-Morgan Stanley Sustainable Investing Challenge 2025:
 I participated in the prestigious global competition for graduate students focused on developing investment strategies for environmental and social impact. For this competition, we developed a pay-for-performance loan model to finance regenerative agriculture practices in India. The model aims to enhance carbon sequestration, improve soil health, and increase farmer profitability, all while ensuring strong financial returns.

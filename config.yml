@@ -11,16 +11,16 @@ taxonomies:
 menu:
     main:
         - name: Reads
-          url: books/
+          url: reads/
           weight: 4
         - name: Projects/Competitions
-          url: papers/
+          url: projects/
           weight: 3
         - name: Courses
           url: courses/
           weight: 2
         - name: Coffee
-          url: data/
+          url: coffee/
           weight: 5 
         - name: LinkedIn
           url: https://www.linkedin.com/in/yashc19/
@@ -61,11 +61,11 @@ params:
             - name: Courses
               url: courses/
             - name: Projects/Competitions
-              url: papers/
+              url: projects/
             - name: Reads
-              url: books/
+              url: reads/
             - name: Coffee
-              url: data/
+              url: coffee/
           #  - name: Tags
            #   url: tags/
           #  - name: Archive

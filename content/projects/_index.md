@@ -34,4 +34,4 @@ Here is our [white-paper](/VisaPaper.pdf) and the [presentation](/resume/VD.pdf)
 #### 3. Kellogg-Morgan Stanley Sustainable Investing Challenge 2025:
 I participated in the prestigious global competition for graduate students focused on developing investment strategies for environmental and social impact. For this competition, we developed a pay-for-performance loan model to finance regenerative agriculture practices in India. The model aims to enhance carbon sequestration, improve soil health, and increase farmer profitability, all while ensuring strong financial returns.
 
-Here is our 2 page [prospectus].
+Here is our 2 page [prospectus](/Kellogg-MS.pdf).

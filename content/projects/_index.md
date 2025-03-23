@@ -1,4 +1,4 @@
-o---
+---
 title: "Projects/Competitions"
 date: "October 2024"
 lastmod: "October 2024"

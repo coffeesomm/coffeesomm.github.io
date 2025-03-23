@@ -81,7 +81,7 @@ params:
         - name: LinkedIn
     #     url: https://www.linkedin.com/in/yashc19
         - name: LinkedIn
-          url: https://www.linkedin.com/in/yashc19
+          url: www.linkedin.com/in/yashc19
     
     assets:
         disableScrollBarStyle: true

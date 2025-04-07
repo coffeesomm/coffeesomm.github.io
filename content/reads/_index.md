@@ -43,6 +43,6 @@ A digital publication that explains ideas with visual essays.
 
 ---
 
-#### 5. [https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us) - How Much Can Duolingo Teach Us?
+#### 5. [How Much Can Duolingo Teach Us? - The New Yorker](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us)
 
 ---

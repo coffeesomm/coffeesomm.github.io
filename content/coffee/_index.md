@@ -90,5 +90,7 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 37. [SYIP - Farrek Park](https://www.instagram.com/syip.sg): hojicha sea salt maple foam. //
 
+38. [Cocobella Lifebar](https://www.instagram.com/cocobellasg): iced mocha latte. (coconut milk) //
+
 
 ---

@@ -45,4 +45,7 @@ A digital publication that explains ideas with visual essays.
 
 #### 5. [How Much Can Duolingo Teach Us?](https://www.newyorker.com/magazine/2023/04/24/how-much-can-duolingo-teach-us) - The New Yorker
 
+
+#### 6. [Time Span of Discretion](https://outlierspath.com/2023/06/25/time-span-of-discretion/) - Outlier's Path by Alfred Lin
+
 ---

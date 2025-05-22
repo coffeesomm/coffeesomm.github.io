@@ -94,9 +94,11 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 39. [Same Days Coffee Stand](https://www.instagram.com/samedays.coffee): hot mocha. //
 
-40. [AP Café](https://www.timeout.com/singapore/news/luxury-watch-brand-audemars-piguet-to-launch-worlds-first-ap-cafe-in-singapore-2025-010725): latte. //
+40. [Big Short Coffee](https://www.instagram.com/bigshortcoffee): mont blance 4.0. // la colina : cold brew, nutmeg, orange zest, mauritius muscovado sugar, vanilla bean french cream
 
-41. [Blue Bottle Coffee Singapore](https://www.instagram.com/bluebottlesingapore): hot mocha. //
+41. [AP Café](https://www.timeout.com/singapore/news/luxury-watch-brand-audemars-piguet-to-launch-worlds-first-ap-cafe-in-singapore-2025-010725): latte. //
+
+42. [Blue Bottle Coffee Singapore](https://www.instagram.com/bluebottlesingapore): hot mocha. //
 
 
 ---

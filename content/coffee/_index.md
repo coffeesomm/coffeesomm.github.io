@@ -100,5 +100,6 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 43. [Blue Bottle Coffee Singapore](https://www.instagram.com/bluebottlesingapore): hot mocha. //
 
+44. [The Coffee Code Singapore](https://www.instagram.com/thecoffeecodesingapore): iced houjicha oat latte. //
 
 ---

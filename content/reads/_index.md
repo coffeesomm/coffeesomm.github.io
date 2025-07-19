@@ -48,8 +48,8 @@ A digital publication that explains ideas with visual essays.
 
 #### 6. [Time Span of Discretion](https://outlierspath.com/2023/06/25/time-span-of-discretion/) - Outlier's Path by Alfred Lin
 
-#### 7. [To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva] - To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva
+#### 7. [To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva](https://archive.ph/PZVRX) - To understand America today, study the zero-sum mindset, writes Stefanie Stantcheva
 
-#### 8. [Want to be a good explorer? Study economics] - Want to be a good explorer? Study economics
+#### 8. [Want to be a good explorer? Study economics](https://archive.ph/SdwQe) - Want to be a good explorer? Study economics
 
 ---

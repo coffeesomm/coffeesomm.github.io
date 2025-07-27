@@ -108,5 +108,5 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 47. [EG Coffee](https://www.instagram.com/egcoffeesg): hot mocha.//
 
-48. 
+48. [Cata Coffee Singapore](https://www.instagram.com/catacoffee): hot mocha.// 
 ---

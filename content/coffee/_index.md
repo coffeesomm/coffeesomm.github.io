@@ -104,5 +104,9 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 45. [Drip & Drool](https://www.instagram.com/dripndrool.sg): iced white cold brew.//
 
-46. 
+46. [Space23](https://www.instagram.com/space23sg): iced latte.//
+
+47. [EG Coffee](https://www.instagram.com/egcoffeesg): hot mocha.//
+
+48. 
 ---

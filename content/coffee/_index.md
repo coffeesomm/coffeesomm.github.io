@@ -110,5 +110,9 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 48. [Cata Coffee Singapore](https://www.instagram.com/catacoffee): hot mocha.//
 
+49. [Vernacular Coffee](https://www.instagram.com/vernacularcoffee): hot mocha.//
+
+50. 
+
     
 ---

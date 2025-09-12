@@ -112,7 +112,6 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 
 49. [Vernacular Coffee](https://www.instagram.com/vernacularcoffee): hot mocha.//
 
-50. 
-
+50. [Space Coffee](https://www.instagram.com/spacecoffee_sg): hot mocha.//
     
 ---

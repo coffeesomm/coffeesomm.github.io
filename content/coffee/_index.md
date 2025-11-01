@@ -113,5 +113,14 @@ I walked in expecting to grab my usual mocha, only to find out they don’t carr
 49. [Vernacular Coffee](https://www.instagram.com/vernacularcoffee): hot mocha.//
 
 50. [Space Coffee](https://www.instagram.com/spacecoffee_sg): hot mocha.//
-    
+
+51. [Rookie & Haus Coffee](https://www.instagram.com/hauscoffeesg): iced hojicha.//
+
+52. [Prairie by Craftsmen](https://www.instagram.com/prairie.sg): iced mocha.//
+
+53. [The Ritual](https://www.instagram.com/theritual.sg): hot mocha.//
+
+54. [Pout Rooftop Café](https://www.instagram.com/poutcafe): peanut butter mocha.//
+
+55. [Mondo](https://www.instagram.com/mondo.gram): hot mocha.//
 ---
